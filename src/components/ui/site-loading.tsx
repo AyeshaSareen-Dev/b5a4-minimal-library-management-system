@@ -1,4 +1,3 @@
-import React from 'react';
 import Lottie from 'react-lottie';
 import LoadingAnim from '../../assets/anim/loading.json';
 import { cn } from '../../lib/utils';

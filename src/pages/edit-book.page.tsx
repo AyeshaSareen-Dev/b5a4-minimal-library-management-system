@@ -1,5 +1,4 @@
 import { BookUpdateForm } from '@/components/features';
-import React from 'react';
 import { FaEdit } from 'react-icons/fa';
 
 const EditBookPage = () => {

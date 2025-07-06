@@ -1,7 +1,6 @@
 import { Link, useLocation } from 'react-router';
 import SiteLogo from '@/components/ui/site-logo';
 import { FaFacebook, FaInstagram, FaTiktok } from 'react-icons/fa';
-import React from 'react';
 
 const Footer = () => {
   const location = useLocation();

@@ -1,5 +1,4 @@
 import BorrowSummaryTable from '@/components/features/borrow/borrow-summary-table';
-import React from 'react';
 import { FaStickyNote } from 'react-icons/fa';
 
 const BorrowSummaryPage = () => {

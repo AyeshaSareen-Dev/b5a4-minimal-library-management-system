@@ -1,5 +1,4 @@
 import { BooksTable } from '@/components/features';
-import React from 'react';
 import { FaBookOpen } from 'react-icons/fa';
 
 const BooksPage = () => {

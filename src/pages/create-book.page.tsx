@@ -1,5 +1,4 @@
 import { BookForm } from '@/components/features';
-import React from 'react';
 import { FaPlus } from 'react-icons/fa';
 
 const CreateBookPage = () => {

@@ -1,5 +1,4 @@
 import { ViewBook } from '@/components/features';
-import React from 'react';
 import { FaBook } from 'react-icons/fa';
 
 const ViewBookPage = () => {

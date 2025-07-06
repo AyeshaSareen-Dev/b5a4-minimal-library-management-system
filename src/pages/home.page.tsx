@@ -1,5 +1,4 @@
 import { BooksTable } from '@/components/features';
-import React from 'react';
 import { FaBookOpen, FaExternalLinkAlt } from 'react-icons/fa';
 import { Link } from 'react-router';
 

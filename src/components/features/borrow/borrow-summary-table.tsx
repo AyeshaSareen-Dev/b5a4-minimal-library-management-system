@@ -1,6 +1,5 @@
 import { useGetBorrowSummaryQuery } from '@/api';
 import { ErrorCard, LoadingSkeleton, NoDataCard } from '@/components/ui';
-import React from 'react';
 
 const BorrowSummaryTable = () => {
   const {

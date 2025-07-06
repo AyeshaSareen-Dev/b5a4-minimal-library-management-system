@@ -1,5 +1,3 @@
-import React from 'react';
-
 const LoadingSkeleton = () => {
   return (
     <div className="w-full min-h-[calc(100vh-285px)] grow flex items-center justify-center">

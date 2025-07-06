@@ -1,5 +1,5 @@
 import { BorrowValidator, type APIResponse, type BookResponse } from '@/lib';
-import React, { useCallback } from 'react';
+import { useCallback } from 'react';
 import { useForm } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { apiSlice, useBorrowBookMutation } from '@/api';

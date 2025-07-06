@@ -1,6 +1,5 @@
 import { useGetBookQuery } from '@/api';
 import { ErrorCard, LoadingSkeleton, NoDataCard } from '@/components/ui';
-import React from 'react';
 import { FaBook, FaShoppingBag } from 'react-icons/fa';
 import { useParams } from 'react-router';
 
